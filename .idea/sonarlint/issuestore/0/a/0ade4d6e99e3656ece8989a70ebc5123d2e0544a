@@ -1,0 +1,12 @@
+
+7	css:S4656¿"Unexpected duplicate "width"(ÕÈ„‡ýÿÿÿÿ
+<	css:S4649å"&Unexpected missing generic font family(Œàá×
+i	css:S4666Ì"SUnexpected duplicate selector ".product__item__pic__hover", first used at line 1372(µñÁâ
+l	css:S4666Ù"VUnexpected duplicate selector ".product__item__pic__hover li", first used at line 1385(ÒÛÓ‹
+w	css:S4666ß"aUnexpected duplicate selector ".product__item__pic__hover li:last-child", first used at line 1391(Æ‘øª
+y	css:S4666ã"^Unexpected duplicate selector ".product__item__pic__hover li:hover a", first used at line 1395(¦¸€¦üÿÿÿÿ
+v	css:S4666è"`Unexpected duplicate selector ".product__item__pic__hover li:hover a i", first used at line 1400(¿žñ’
+s	css:S4666í"XUnexpected duplicate selector ".product__item__pic__hover li a", first used at line 1405(û»øÌþÿÿÿÿ
+p	css:S4666ÿ"ZUnexpected duplicate selector ".product__item__pic__hover li a i", first used at line 1423(êéÙ¶
+r	css:S4666Å"\Unexpected duplicate selector ".product__details__tab .nav-tabs li", first used at line 3502(É¼„ù
+F	css:S4654&",Unexpected unknown property "font-smoothing"(Êœ‚­üÿÿÿÿ

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Source6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/img/Source/bootstrap-4.4.1-dist.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/img/Source/sass.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/img/Source/OwlCarousel2-2.3.4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/img/Source/jquery-nice-select-1.1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/img/Source/SlickNav-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/img/Source/jquery-ui-1.12.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/img/Source/font-awesome-4.7.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

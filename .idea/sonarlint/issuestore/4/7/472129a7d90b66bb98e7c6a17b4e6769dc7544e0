@@ -1,0 +1,33 @@
+
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "Address" 3 times.(ûÂì´ùÿÿÿÿ
+Œ
+java:S1192"vDefine a constant instead of duplicating this literal "SELECT o.*, u.username, os.status_name FROM Orders o
+" 3 times.(²‘Ó‘
+g
+java:S1192("LDefine a constant instead of duplicating this literal "status_name" 3 times.(´Çˆëùÿÿÿÿ
+b
+java:S1192%"LDefine a constant instead of duplicating this literal "TotalAmount" 3 times.(’õ¹‡
+`
+java:S1192$"JDefine a constant instead of duplicating this literal "OrderDate" 3 times.(–ğÒ•
+_
+java:S1192&"IDefine a constant instead of duplicating this literal "StatusID" 4 times.(‘ĞÕÿ
+_
+java:S1192'"IDefine a constant instead of duplicating this literal "username" 3 times.(¡­Û 
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÂÙùÿÿÿÿ
+e	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šõ
+@	java:S106"+Replace this use of System.out by a logger.(•ºµÖ
+H
+java:S6126"2Replace this String concatenation with Text block.(²‘Ó‘
+c
+java:S1659"HDeclare "totalAmount" and all following declarations on a separate line.(úÂÙùÿÿÿÿ
+]
+java:S1659"GDeclare "statusName" and all following declarations on a separate line.(ƒµí†
+G
+java:S61267"2Replace this String concatenation with Text block.(¤ë¦
+H
+java:S6126W"2Replace this String concatenation with Text block.(²‘Ó‘
+T
+java:S1659\"?Declare "id" and all following declarations on a separate line.(€šõ
+]
+java:S1659]"GDeclare "statusName" and all following declarations on a separate line.(ƒµí†

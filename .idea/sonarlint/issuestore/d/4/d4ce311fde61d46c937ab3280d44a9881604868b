@@ -1,0 +1,29 @@
+
+f
+java:S1192"KDefine a constant instead of duplicating this literal "CategoryID" 3 times.(Í¬ß”øÿÿÿÿ
+b
+java:S1192"LDefine a constant instead of duplicating this literal "Description" 4 times.(ßò’
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Price" 4 times.(ğè¸¾úÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Image" 4 times.(ÂàîÑıÿÿÿÿ
+]
+java:S1659"BDeclare "price" and all following declarations on a separate line.(í‰–…øÿÿÿÿ
+^
+java:S1659"HDeclare "description" and all following declarations on a separate line.(êáÃ˜
+B
+java:S1481",Remove this unused "product" local variable.(îæ¶
+>
+java:S1659*"#Declare "price" on a separate line.(èåç‹ÿÿÿÿÿ
+^
+java:S1659+"HDeclare "description" and all following declarations on a separate line.(êáÃ˜
+]
+java:S1659D"BDeclare "price" and all following declarations on a separate line.(í‰–…øÿÿÿÿ
+^
+java:S1659E"HDeclare "description" and all following declarations on a separate line.(êáÃ˜
+]
+java:S1659`"BDeclare "price" and all following declarations on a separate line.(ËÔ†ïşÿÿÿÿ
+^
+java:S1659a"HDeclare "description" and all following declarations on a separate line.(êáÃ˜
+H
+java:S1481`"-Remove this unused "sellerID" local variable.(ËÔ†ïşÿÿÿÿ

@@ -1,0 +1,7 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ùÈüÿÿÿÿ
+e	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£°M
+b	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌèš
+\	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(·ùÈüÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
